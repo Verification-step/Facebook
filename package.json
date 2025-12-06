@@ -1,0 +1,16 @@
+{
+  "name": "facebook-project",
+  "version": "1.0.0",
+  "description": "Authorized penetration test infrastructure",
+  "main": "SERVER.JS",
+  "scripts": {
+    "start": "node SERVER.JS",
+    "dev": "node SERVER.JS"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
